@@ -1,13 +1,20 @@
-# Desafios-Python-DIO
+# Ganhe uma Sobremesa Especial!
 
-## Pasta com os desafios de Python do Bootcamp Potência Tech powered by iFood | Ciência de Dados
+## Desafio
+### Crie um programa que informe ao usuário se ele pode receber um brinde especial de acordo com o valor total do pedido. Se o valor total do pedido for maior ou igual a R$ 50.00, o usuário receberá uma sobremesa grátis. Caso contrário, o usuário não receberá nenhum brinde.
 
-### Desafio 1: Tempo Estimado de Entrega
+## Entrada
+### A entrada deverá receber o valor total do pedido em uma variável numérica:
 
-### Desafio 2: Calcular o Preço Final de um Pedido
+#### valorPedido: o valor do pedido.
 
-### Desafio 3: Ganhe uma Sobremesa Especial!
+## Saída
+### Deverá retornar uma mensagem (string) que informa se o usuário ganhou uma sobremesa ou não:
 
-### Desafio 4: Gerenciamento de Pedidos de Comida Online
+### Se valorPedido >= 50, a mensagem deve ser:
+#### Parabens, você ganhou uma sobremesa gratis!
 
-### Desafio 5: Identificando Pedidos Veganos
+### Caso contrário, a mensagem deve ser:
+#### Que pena, você nao ganhou nenhum brinde especial.
+
+
