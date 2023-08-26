@@ -1,4 +1,4 @@
-# Calcular o Preço Final de um Pedido
+# Desafio 2 - Calcular o Preço Final de um Pedido
 
 ## Desafio
 ### Você está criando um aplicativo de entrega de comida e precisa calcular o preço final do pedido do usuário. O usuário escolheu alguns itens do cardápio e é preciso calcular o preço total do pedido.
