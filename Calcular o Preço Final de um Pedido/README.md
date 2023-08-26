@@ -6,12 +6,12 @@
 ## Entrada:
 ### A entrada deve receber os valores abaixo:
 
-valorHamburguer: o valor unitário de um hambúrguer.
-quantidadeHamburguer: a quantidade de hambúrgueres que o usuário deseja.
-valorBebida: o valor unitário de uma bebida.
-quantidadeBebida: a quantidade de bebidas que o usuário deseja.
-valorPago: o valor pago pelo usuário.
-Saída:
+valorHamburguer: o valor unitário de um hambúrguer. \n
+quantidadeHamburguer: a quantidade de hambúrgueres que o usuário deseja. \n
+valorBebida: o valor unitário de uma bebida. \n
+quantidadeBebida: a quantidade de bebidas que o usuário deseja. \n
+valorPago: o valor pago pelo usuário. \n
+Saída: \n
 
 ## A saída deve retornar um texto informando o valor total do pedido e a quantidade de troco que será necessário. Por exemplo, se tivermos os seguintes valores de entrada:
 
