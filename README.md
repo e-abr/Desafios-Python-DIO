@@ -2,7 +2,7 @@
 
 ## Pasta com os desafios de Python do Bootcamp Potência Tech powered by iFood | Ciência de Dados
 
-### [Desafio 1: Tempo Estimado de Entrega] (/#1 - Tempo Estimado de Entrega)
+### [Desafio 1: Tempo Estimado de Entrega] (/1 - Tempo Estimado de Entrega)
 
 - Desafio 2: Calcular o Preço Final de um Pedido https://github.com/e-abr/Desafios-Python-DIO/tree/57a8ea5b1a8fbddad11a907488c8ae6cf086fbb4/2%20-%20Calcular%20o%20Pre%C3%A7o%20Final%20de%20um%20Pedido
 
